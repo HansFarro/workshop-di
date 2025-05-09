@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "DOCUMENT_INTELLIGENCE_ENDPOINT": "https://di-poc-workshop.cognitiveservices.azure.com/",
+    "DOCUMENT_INTELLIGENCE_KEY" : "DkFZihxJUASz4bXjgtxyJgKbRqdZV5ERtu6zlzPh7pqmeyR4mCBgJQQJ99BEACYeBjFXJ3w3AAALACOG74QM",
+    "POSTGRES_DB": "citus",
+    "POSTGRES_USER": "citus",
+    "POSTGRES_PASSWORD": "miqj%DoTP6j!",
+    "POSTGRES_HOST": "c-cdbworkshop.6eqn6zsrjzob6w.postgres.cosmos.azure.com",
+    "POSTGRES_PORT": "5432"
+  }
+}
